@@ -55,6 +55,15 @@ const portfolioProjects = [
     stack: "Next.js, TypeScript, Tailwind CSS, localStorage",
     status: "complete",
     url: "https://mini-inventory-system-two.vercel.app/"
+  },
+  {
+    id: "project-7",
+    number: "Project #7",
+    title: "Personal Kanban Task Board",
+    description: "A localStorage-based task board with Kanban columns, drag-and-drop movement, due dates, overdue detection, search, filters, action, branch, iterate, event, and state_machine.",
+    stack: "Next.js, TypeScript, Tailwind CSS, localStorage, Native Drag and Drop",
+    status: "complete",
+    url: "https://personal-kanban-board-dusky.vercel.app/"
   }
 ];
 
