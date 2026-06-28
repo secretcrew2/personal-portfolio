@@ -46,6 +46,15 @@ const portfolioProjects = [
     status: "complete", 
     url: "https://expense-tracker-omega-one-12.vercel.app/"
     
+  },
+  {
+    id: "project-6",
+    number: "Project #6",
+    title: "Mini Inventory System",
+    description: "A localStorage-based inventory dashboard that tests CRUD, stock updates, low-stock warnings, search, filters, action, branch, iterate, event, and state_machine.",
+    stack: "Next.js, TypeScript, Tailwind CSS, localStorage",
+    status: "complete",
+    url: "https://mini-inventory-system-two.vercel.app/"
   }
 ];
 
