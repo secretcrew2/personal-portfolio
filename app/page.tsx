@@ -64,6 +64,15 @@ const portfolioProjects = [
     stack: "Next.js, TypeScript, Tailwind CSS, localStorage, Native Drag and Drop",
     status: "complete",
     url: "https://personal-kanban-board-dusky.vercel.app/"
+  }, 
+  {
+    id: "project-10",
+    number: "Project #10",
+    title: "StayFlow Manager",
+    description: "A multi-page hotel and boarding house management system with rooms, guests, bookings, payments, maintenance, reports, localStorage persistence, date conflict checking, and revenue analytics.",
+    stack: "Next.js, TypeScript, Tailwind CSS, localStorage, Multi-page App Router",
+    status: "complete",
+    url: "https://stayflow-manager-git-main-secretcrew2s-projects.vercel.app/"
   }
 ];
 
